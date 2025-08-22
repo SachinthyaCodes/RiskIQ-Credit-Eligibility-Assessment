@@ -53,7 +53,7 @@ Organizations implementing this system typically experience:
 - **15-20% improvement** in default prediction accuracy
 - **70-80% reduction** in operational costs related to manual review
 - **Enhanced customer experience** through instant decisions and transparent explanations
-- **Improved regulatory compliance** with auditable decision trails
+- **Improved regulatory compliance** with auditable decision trails.
 
 ## Core Features
 
